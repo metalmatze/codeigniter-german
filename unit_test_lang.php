@@ -1,7 +1,7 @@
 <?php
 
 $lang['ut_test_name'] 		= 'Testname';
-$lang['ut_test_datatype']	= 'Test-Datentyp ';
+$lang['ut_test_datatype']	= 'Test-Datentyp';
 $lang['ut_res_datatype'] 	= 'Erwarteter Datentyp';
 $lang['ut_result'] 			= 'Ergebnis';
 $lang['ut_undefined'] 		= 'Undefinierter Testname';
