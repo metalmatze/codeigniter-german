@@ -1,4 +1,4 @@
 codeigniter-german
 ==================
 
-CodeIgniter german language translation
+CodeIgniter German language translation compatible to version 3.0.1

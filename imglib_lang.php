@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('Kein direkter Skriptzugriff erlaubt');
 
 $lang['imglib_source_image_required'] = 'Eine Quelldatei muss in den Voreinstellungen festgelegt werden.';
 $lang['imglib_gd_required'] = 'Die GD-Bibliothek ist f&uuml;r diese Funktion erforderlich.';
