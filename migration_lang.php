@@ -7,9 +7,9 @@ $lang['migration_sequence_gap'] 		= 'In der Migrations Sequenz gibt es eine Lüc
 
 $lang['migration_multiple_version']		= 'Dies sind mehrere Migrationen mit der gleichen Versionsnummer: %s.';
 $lang['migration_class_doesnt_exist']	= 'Die Migrationsklasse "%s" konnte nicht gefunden werden.';
-$lang['migration_missing_up_method']	= 'Der Migrationsklasse "%s" fehlt eine \'up\'-Methode.';
-$lang['migration_missing_down_method']	= 'Der Migrationsklasse "%s" fehlt eine \'down\'-Methode.';
-$lang['migration_invalid_filename']		= 'Migration %s hat einen ung&uuml;ltigen Dateinamen.';
+$lang['migration_missing_up_method']	= 'Der Migrationsklasse "%s" fehlt eine "up" -Methode.';
+$lang['migration_missing_down_method']	= 'Der Migrationsklasse "%s" fehlt eine "down" -Methode.';
+$lang['migration_invalid_filename']		= 'Migration "%s" hat einen ung&uuml;ltigen Dateinamen.';
 
 
 /* End of file migration_lang.php */
