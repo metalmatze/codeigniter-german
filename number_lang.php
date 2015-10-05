@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('Kein direkter Skriptzugriff erlaubt');
 
 $lang['terabyte_abbr'] = 'TB';
 $lang['gigabyte_abbr'] = 'GB';

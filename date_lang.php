@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('Kein direkter Skriptzugriff erlaubt');
 
 $lang['date_year'] = 'Jahr';
 $lang['date_years'] = 'Jahre';

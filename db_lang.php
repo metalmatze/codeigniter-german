@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('Kein direkter Skriptzugriff erlaubt');
 
 $lang['db_invalid_connection_str'] = 'Die Datenbankkonfiguration konnte f&uuml;r die angegebene Verbindung nicht ermittelt werden.';
 $lang['db_unable_to_connect'] = 'Die Verbindung zur Datenbank konnte mit der angegebenen Konfiguration nicht hergestellt werden.';

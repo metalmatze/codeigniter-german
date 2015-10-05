@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('Kein direkter Skriptzugriff erlaubt');
 
 $lang['profiler_database'] 			= 'DATENBANK';
 $lang['profiler_controller_info'] 	= 'KLASSE/METHODE';
@@ -20,6 +21,7 @@ $lang['profiler_no_memory'] 		= 'Speichernutzung nicht verfügbar';
 $lang['profiler_no_profiles']		= 'Keine Profile-Daten - Alle Profiler-Abschnitte wurden deaktiviert.';
 $lang['profiler_section_hide']		= 'Verstecken';
 $lang['profiler_section_show']		= 'Zeigen';
+$lang['profiler_seconds'] 			= 'Sekunden';
 
 /* End of file profiler_lang.php */
 /* Location: ./system/language/german/profiler_lang.php */
